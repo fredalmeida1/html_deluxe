@@ -1,0 +1,25 @@
+{
+  "name": "html_deluxe",
+  "version": "1.0.0",
+  "description": "primeiro web server",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredalmeida1/html_deluxe.git"
+  },
+  "author": "Fred I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fredalmeida1/html_deluxe/issues"
+  },
+  "homepage": "https://github.com/fredalmeida1/html_deluxe#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
